@@ -1,0 +1,15 @@
+// ==UserScript==
+// @name         重庆大学网络教育学院
+// @description  手动导入题库，然后刷新作业页面，就可以在题号下看到搜索结果，方便快速做作业！
+// @namespace    https://bbs.tampermonkey.net.cn/
+// @version      1.0
+// @match        https://exercise.5any.com/Exercise/WebUI/Test/Answer*
+// @license MIT
+// ==/UserScript==
+
+(function () {
+    alert('请联系QQ: 475851386获取脚本')
+})();
+
+
+//油猴脚本提高刷题速度
